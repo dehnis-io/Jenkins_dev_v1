@@ -1,4 +1,4 @@
-# Jenkins Upgradev3
+# Jenkins_dev_v1
 
 ![Jenkins Logo](https://jenkins.io/images/logos/jenkins-logo.png)
 
@@ -44,13 +44,13 @@ Before attempting to upgrade Jenkins using the scripts in this repository, ensur
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/anshulc55/Jenkins_Upgradev3.git
+   git clone https://github.com/dehnis-io/Jenkins_dev_v1.git
    ```
 
 2. Change to the repository directory:
 
    ```bash
-   cd Jenkins_Upgradev3
+   cd Jenkins_dev_v1
    ```
 
 3. Follow the instructions in the [Installation Guide](docs/InstallationGuide.md) to set up the upgrade environment.
